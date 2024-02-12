@@ -1,9 +1,9 @@
-import React from 'react'
+import React from "react";
 
 export default function Header() {
   return (
     <div>
-      <h2>Expense Tracker</h2>
+      <h2 className="text-[#B0D0D3]">Expense Tracker</h2>
     </div>
-  )
+  );
 }
